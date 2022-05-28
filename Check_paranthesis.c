@@ -31,7 +31,8 @@ int main()
             }
         }
     }
-   
+     if(top>=0)
+    f=0;
     if (f == 0)
         printf("The equation is Unbalanced\n");
     else
